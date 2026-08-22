@@ -1,16 +1,20 @@
 <!-- ========================================================= -->
-<!--                        HERO                               -->
+<!--                         HERO                              -->
 <!-- ========================================================= -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,40:1E3A8A,75:2563EB,100:00C6FF&height=250&section=header&text=Pragya%20Pandey&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20Java%20%26%20DSA%20%7C%20AI%20Explorer&descAlignY=56&descSize=20" width="100%"/>
+<h1>👩‍💻 Pragya Pandey</h1>
 
-<br/>
+<h3>Full Stack Developer • Java & DSA • AI Explorer</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=850&height=50&lines=Building+Real-World+Full+Stack+Applications;Solving+Problems+with+Java+%26+DSA;Building+Backend+Systems+with+Node.js;Exploring+AI+%26+Generative+AI;Learning+%E2%86%92+Building+%E2%86%92+Debugging+%E2%86%92+Improving+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=850&height=50&lines=Building+Real-World+Full+Stack+Applications;Solving+Problems+with+Java+%26+DSA;Building+Backend+Systems+with+Node.js;Exploring+AI+%26+Generative+AI;Learning+%E2%86%92+Building+%E2%86%92+Debugging+%E2%86%92+Improving+%F0%9F%9A%80" alt="Typing SVG"/>
 
 <br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,40:1E3A8A,75:2563EB,100:00C6FF&height=130&section=header" width="100%"/>
+
+<br/>
 
 ![B.Tech](https://img.shields.io/badge/B.Tech-Computer%20Science%20%26%20Engineering-2563EB?style=for-the-badge&logo=googlescholar&logoColor=white)
 
@@ -22,13 +26,15 @@
 <img src="https://img.shields.io/badge/GitHub-Pragyapandey96-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/pragya-pandey-954b0535a/"/>
+<a href="YOUR_LINKEDIN_URL">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:ppragya651@gmail.com">
+<a href="mailto:YOUR_EMAIL@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=Pragyapandey96&label=PROFILE%20VIEWS&style=for-the-badge&color=2563EB"/>
 
