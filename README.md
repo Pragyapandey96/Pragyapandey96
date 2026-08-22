@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Pragya Pandey
 
-### Full Stack Developer | Backend Engineer | Java & DSA
+### Full Stack Developer | Backend Developer | Java & DSA
 
 I'm a Computer Science Engineering student at **Ajay Kumar Garg Engineering College (AKGEC)** who enjoys building real-world web applications, designing backend systems, and solving problems with Java.
 
