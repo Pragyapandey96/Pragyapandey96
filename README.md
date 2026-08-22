@@ -70,7 +70,6 @@ I enjoy taking an idea from:
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -86,7 +85,6 @@ I enjoy taking an idea from:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
 </div>
 
@@ -96,7 +94,6 @@ I enjoy taking an idea from:
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-02569B?style=flat-square&logo=fastapi&logoColor=white)
 
 </div>
@@ -128,7 +125,7 @@ I enjoy taking an idea from:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,cpp,js,ts,html,css,react,tailwind,nodejs,express,mongodb,mysql,git,github,vscode,postman&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,js,ts,html,css,react,tailwind,nodejs,express,mongodb,mysql,git,github,vscode,postman&theme=dark" />
 
 </div>
 
@@ -138,191 +135,24 @@ I enjoy taking an idea from:
 <!--                      EXPERIENCE                           -->
 <!-- ========================================================= -->
 
-## 💼 Experience
+### Backend Developer
+**Open Source Software Society (OSS), AKGEC** · *2026 – Present*
 
-### Software Engineer Trainee / Developer Intern
+Contributing to the backend development of digital platforms and technical projects for a student-led open source community, focusing on APIs, server-side development, database integration, and scalable application architecture.
 
-**Tachy Group — TACHY School ERP**
+- Developed and integrated RESTful APIs using Node.js and Express.js
+- Built server-side functionality and reusable backend modules
+- Integrated MongoDB and MySQL databases with backend applications
+- Implemented authentication, authorization, and API security practices
+- Connected frontend applications with backend services and APIs
+- Debugged backend issues and improved application reliability and performance
+- Collaborated with frontend developers and team members to deliver complete features
+- Used Git and GitHub for version control and collaborative development
 
-Worked on real-world software development involving school ERP systems and backend/frontend integration.
-
-**Key areas of work:**
-
-- 🌐 Developed and maintained web application features
-- ⚙️ Worked with **PHP & MySQL/MariaDB**
-- 🎨 Built responsive interfaces using **HTML, Tailwind CSS & Bootstrap**
-- ⚡ Used **JavaScript & Alpine.js** for interactive functionality
-- 🔌 Worked with **API development and integration**
-- 🗄️ Worked with database-driven application features
-- 🔧 Used **Git & GitHub** for version control
-- 🐛 Debugged and improved existing application functionality
-
-**Technologies:**  
-`PHP` `MySQL` `MariaDB` `HTML` `CSS` `Tailwind CSS` `Bootstrap` `JavaScript` `Alpine.js` `Git`
+`Node.js` `Express.js` `MongoDB` `MySQL` `REST APIs` `JavaScript` `Git` `Backend Development`
 
 ---
 
-<!-- ========================================================= -->
-<!--                     WHAT I BUILD                          -->
-<!-- ========================================================= -->
-
-## 🚀 What I Build
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### 🌐 Full Stack Applications
-
-- Responsive web applications
-- REST APIs
-- Authentication systems
-- Database integration
-- API integrations
-- Backend services
-- Deployment
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🧠 Problem Solving
-
-- Data Structures
-- Algorithms
-- Java
-- LeetCode
-- Problem-solving patterns
-- Time & space complexity
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 🤖 AI-Powered Applications
-
-- Generative AI integration
-- AI-powered web applications
-- LLM-based features
-- Prompt engineering
-- AI + Full Stack applications
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🛠️ Software Engineering
-
-- Git & GitHub
-- RESTful APIs
-- Debugging
-- Clean code
-- Deployment
-- Version control
-
-</td>
-
-</tr>
-</table>
-
----
-
-<!-- ========================================================= -->
-<!--                  FEATURED PROJECTS                        -->
-<!-- ========================================================= -->
-
-## 🔥 Featured Projects
-
-### 🛒 ShopNest — Full Stack E-Commerce
-
-A full-stack e-commerce application focused on building a complete online shopping experience.
-
-**Highlights:**
-
-- 🛍️ Product management
-- 🔐 Authentication
-- 🗄️ Database integration
-- 🔌 API integration
-- 📱 Responsive UI
-- 🚀 Full-stack architecture
-
-**Tech:**  
-`JavaScript` `Node.js` `Express` `MongoDB` `React` `Tailwind CSS`
-
-[![View Project](https://img.shields.io/badge/View%20Project-0072FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pragyapandey96/E-commerce-ShopNest)
-
----
-
-### 🤖 HireReady AI — AI-Powered Application
-
-A full-stack application exploring the integration of **Generative AI with modern web development**.
-
-**Highlights:**
-
-- 🤖 AI-powered functionality
-- 🌐 Full-stack architecture
-- 🔌 API integration
-- 💻 Modern frontend
-- 🚀 Deployed application
-
-**Tech:**  
-`JavaScript` `Node.js` `Express` `AI` `REST API`
-
-[![View Project](https://img.shields.io/badge/View%20Project-0072FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pragyapandey96/FULLSTACK-GENAI)
-
----
-
-### 🔗 URL Shortener
-
-A backend-focused application for creating short URLs and handling URL redirection.
-
-**Highlights:**
-
-- 🔗 URL shortening
-- ⚙️ Backend API
-- 🗄️ Database integration
-- 🚀 Server-side architecture
-
-**Tech:**  
-`Node.js` `Express.js` `MongoDB`
-
-[![View Project](https://img.shields.io/badge/View%20Project-0072FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pragyapandey96/URL-Shortner)
-
----
-
-### 📝 Node.js Projects
-
-A collection of backend and Node.js experiments focused on understanding server-side development.
-
-**Topics explored:**
-
-- Node.js fundamentals
-- Express.js
-- REST APIs
-- Middleware
-- Backend architecture
-- Database connectivity
-
-[![Explore Repository](https://img.shields.io/badge/Explore-0072FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pragyapandey96/Node_Js)
-
----
-
-<div align="center">
-
-<a href="https://github.com/Pragyapandey96?tab=repositories">
-
-<img src="https://img.shields.io/badge/🚀%20View%20All%20Repositories-1E3A8A?style=for-the-badge"/>
-
-</a>
-
-</div>
-
----
 
 <!-- ========================================================= -->
 <!--                     DSA JOURNEY                           -->
