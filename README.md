@@ -63,7 +63,7 @@ Currently, I'm focused on becoming a strong **Full Stack / Backend Developer** b
 ## 💼 Experience
 
 ### Backend Developer
-**Open Source Software Society (OSS), AKGEC** · *2026 – Present*
+**Open Source Software Society (OSS), AKGEC** · *oct 2025 – Present*
 
 Contributing to backend development for technical projects and digital platforms within a student-led open source community.
 
