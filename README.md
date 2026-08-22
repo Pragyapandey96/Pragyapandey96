@@ -1,10 +1,12 @@
 <div align="center">
 
-![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:00C6FF&height=250&section=header&text=Pragya%20Pandey&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Java%20%26%20DSA%20%7C%20AI%20Explorer&descAlignY=55&descSize=20)
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=850&height=50&lines=Building+Full+Stack+Web+Applications;Java+%7C+Data+Structures+%7C+Problem+Solving;Node.js+%7C+Express+%7C+MongoDB;Exploring+AI+%26+Generative+AI;Turning+Ideas+Into+Real-World+Applications" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:00C6FF&height=250&section=header&text=Pragya%20Pandey&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38" width="100%" />
 
 <br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=850&height=50&lines=Full+Stack+Developer;Java+%7C+Data+Structures+%7C+Problem+Solving;Node.js+%7C+Express+%7C+MongoDB;Exploring+AI+%26+Generative+AI;Building+Real-World+Applications" alt="Typing SVG" />
+
+<br/><br/>
 
 ![B.Tech](https://img.shields.io/badge/B.Tech-Computer%20Science%20%26%20Engineering-1D4ED8?style=for-the-badge&logo=googlescholar&logoColor=white)
 ![College](https://img.shields.io/badge/AKGEC-Ghaziabad-2563EB?style=for-the-badge&logo=readthedocs&logoColor=white)
