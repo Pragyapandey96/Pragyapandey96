@@ -4,7 +4,7 @@
 
 I'm a Computer Science Engineering student at **Ajay Kumar Garg Engineering College (AKGEC)** who enjoys building real-world web applications, designing backend systems, and solving problems with Java.
 
-Currently, I'm focused on becoming a strong **Full Stack / Backend Engineer** by building production-oriented projects and strengthening my fundamentals in **DSA, databases, APIs, system design, and AI integration**.
+Currently, I'm focused on becoming a strong **Full Stack / Backend Developer** by building production-oriented projects and strengthening my fundamentals in **DSA, databases, APIs, system design, and AI integration**.
 
 ---
 
@@ -62,7 +62,7 @@ Currently, I'm focused on becoming a strong **Full Stack / Backend Engineer** by
 
 ## 💼 Experience
 
-### Backend Engineer
+### Backend Developer
 **Open Source Software Society (OSS), AKGEC** · *2026 – Present*
 
 Contributing to backend development for technical projects and digital platforms within a student-led open source community.
