@@ -1,42 +1,26 @@
-<!-- ========================================================= -->
-<!--                         HERO                              -->
-<!-- ========================================================= -->
-
 <div align="center">
 
-<h1>👩‍💻 Pragya Pandey</h1>
+![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:00C6FF&height=250&section=header&text=Pragya%20Pandey&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Java%20%26%20DSA%20%7C%20AI%20Explorer&descAlignY=55&descSize=20)
 
-<h3>Full Stack Developer • Java & DSA • AI Explorer</h3>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=850&height=50&lines=Building+Real-World+Full+Stack+Applications;Solving+Problems+with+Java+%26+DSA;Building+Backend+Systems+with+Node.js;Exploring+AI+%26+Generative+AI;Learning+%E2%86%92+Building+%E2%86%92+Debugging+%E2%86%92+Improving+%F0%9F%9A%80" alt="Typing SVG"/>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,40:1E3A8A,75:2563EB,100:00C6FF&height=130&section=header" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=850&height=50&lines=Building+Full+Stack+Web+Applications;Java+%7C+Data+Structures+%7C+Problem+Solving;Node.js+%7C+Express+%7C+MongoDB;Exploring+AI+%26+Generative+AI;Turning+Ideas+Into+Real-World+Applications" alt="Typing SVG" />
 
 <br/>
 
-![B.Tech](https://img.shields.io/badge/B.Tech-Computer%20Science%20%26%20Engineering-2563EB?style=for-the-badge&logo=googlescholar&logoColor=white)
+![B.Tech](https://img.shields.io/badge/B.Tech-Computer%20Science%20%26%20Engineering-1D4ED8?style=for-the-badge&logo=googlescholar&logoColor=white)
+![College](https://img.shields.io/badge/AKGEC-Ghaziabad-2563EB?style=for-the-badge&logo=readthedocs&logoColor=white)
+![Location](https://img.shields.io/badge/Ghaziabad-UP%2C%20India-3B82F6?style=for-the-badge&logo=googlemaps&logoColor=white)
 
-![Location](https://img.shields.io/badge/Ghaziabad-Uttar%20Pradesh%2C%20India-3B82F6?style=for-the-badge&logo=googlemaps&logoColor=white)
+<br/>
 
-<br/><br/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pragya-pandey-954b0535a/)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-3B82F6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ppragya651@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-60A5FA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pragyapandey96)
 
-<a href="https://github.com/Pragyapandey96">
-<img src="https://img.shields.io/badge/GitHub-Pragyapandey96-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<br/>
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Pragyapandey96&label=PROFILE%20VIEWS&style=for-the-badge&color=2563EB"/>
+![Profile Views](https://komarev.com/ghpvc/?username=Pragyapandey96&style=for-the-badge&color=1D4ED8&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/Pragyapandey96?style=for-the-badge&color=2563EB&labelColor=1a1a2e)
+![Stars](https://img.shields.io/github/stars/Pragyapandey96?style=for-the-badge&color=3B82F6&labelColor=1a1a2e)
 
 </div>
 
