@@ -34,10 +34,6 @@
 
 ## 👩‍💻 About Me
 
-<div align="center">
-
-### Hi, I'm Pragya 👋
-
 </div>
 
 I'm a **Computer Science & Engineering student** passionate about software development, problem solving, and building practical applications.
