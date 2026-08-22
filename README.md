@@ -1,34 +1,20 @@
-<!-- ===================== HEADER ===================== -->
+<!-- ========================= HERO ========================= -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=220&section=header&text=Pragya%20Pandey&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Java%20%26%20DSA%20%7C%20AI%2FML%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
-
-</div>
-
-<!-- ===================== TYPING ===================== -->
-
-<div align="center">
-
-<a href="https://github.com/Pragyapandey96">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C6FF&center=true&vCenter=true&width=700&lines=Turning+Ideas+Into+Interactive+Experiences;Building+Full+Stack+Web+Applications;Learning+Java+%26+Data+Structures;Exploring+AI%2FML+%26+Generative+AI;Always+Learning.+Always+Building.+%F0%9F%9A%80" alt="Typing SVG" />
-
-</a>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,50:0072FF,100:6A5ACD&height=240&section=header&text=Pragya%20Pandey&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Java%20%26%20DSA%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
 
 <br>
 
-<!-- ===================== SOCIAL LINKS ===================== -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=00C6FF&center=true&vCenter=true&width=800&lines=Building+Full+Stack+Web+Applications;Solving+Problems+with+Java+%26+DSA;Exploring+AI+%26+Generative+AI;Turning+Ideas+into+Real+Products;Learn+%E2%86%92+Build+%E2%86%92+Debug+%E2%86%92+Improve+%F0%9F%9A%80" />
 
-<div align="center">
+<br><br>
 
 <a href="https://github.com/Pragyapandey96">
 <img src="https://img.shields.io/badge/GitHub-Pragyapandey96-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/">
+<a href="YOUR_LINKEDIN_URL">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -36,159 +22,178 @@
 <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=Pragyapandey96&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Pragyapandey96&label=PROFILE%20VIEWS&color=0072ff&style=for-the-badge"/>
 
 </div>
 
-<br>
+---
 
-<!-- ===================== ABOUT ME ===================== -->
+<!-- ========================= ABOUT ========================= -->
 
 <h2 align="center">👩‍💻 About Me</h2>
 
-<p align="center">
-
-I'm a Computer Science student and aspiring <b>Full Stack Developer</b> passionate about building
-modern, scalable and user-friendly web applications.
-
-I enjoy solving problems with <b>Java & Data Structures</b>, developing applications with
-<b>Node.js</b>, and exploring the possibilities of <b>AI/ML & Generative AI</b>.
-
-</p>
-
 <div align="center">
 
-🎓 B.Tech — Computer Science & Engineering  
-💻 Full Stack Development  
-☕ Java & Data Structures  
-🤖 AI/ML & Generative AI  
-🌱 Currently learning and building every day  
-🚀 Goal: Become a strong Software Engineer
+### Hi, I'm Pragya 👋
+
+I'm a **Computer Science & Engineering student** passionate about building
+**full-stack applications, solving DSA problems, and exploring AI-powered software.**
+
+I enjoy turning ideas into practical applications using modern web technologies
+and continuously improving my problem-solving skills with **Java & Data Structures**.
 
 </div>
 
 <br>
 
-<!-- ===================== TECH STACK ===================== -->
+<div align="center">
 
-<h2 align="center">🛠️ Tech Stack</h2>
+🎓 **B.Tech — Computer Science & Engineering**
+
+💻 **Full Stack Developer**
+
+☕ **Java + Data Structures & Algorithms**
+
+🤖 **AI / Generative AI Explorer**
+
+🌱 **Learning something new every day**
+
+🚀 **Aspiring Software Engineer**
+
+</div>
+
+---
+
+<!-- ========================= TECH STACK ========================= -->
+
+<h2 align="center">⚡ Tech Stack</h2>
 
 <div align="center">
 
-### 💻 Languages
+### Languages
 
 <img src="https://skillicons.dev/icons?i=java,cpp,javascript,typescript,html,css" />
 
 <br><br>
 
-### 🎨 Frontend
+### Frontend
 
 <img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,bootstrap" />
 
 <br><br>
 
-### ⚙️ Backend
+### Backend
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,php" />
 
 <br><br>
 
-### 🗄️ Database
+### Databases
 
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
 
 <br><br>
 
-### 🔧 Tools & Technologies
+### Tools & Deployment
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,render" />
 
 </div>
 
-<br>
+---
 
-<!-- ===================== CURRENTLY LEARNING ===================== -->
+<!-- ========================= CURRENT FOCUS ========================= -->
 
-<h2 align="center">🌱 Currently Learning</h2>
+<h2 align="center">🌱 Currently Focusing On</h2>
 
 <div align="center">
 
-![Java](https://img.shields.io/badge/Java-DSA-orange?style=for-the-badge&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-Learning-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-Backend-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![AI](https://img.shields.io/badge/AI%2FML-Exploring-8A2BE2?style=for-the-badge&logo=ai&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-Learning-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+| 🚀 Area | 🎯 Focus |
+|---------|----------|
+| ☕ Java | DSA & Problem Solving |
+| 🌐 Backend | Node.js, Express & REST APIs |
+| 💻 Full Stack | Production-ready applications |
+| 🧠 DSA | LeetCode & algorithmic thinking |
+| 🤖 AI | Generative AI & AI-powered applications |
+| ☁️ Cloud | AWS & deployment |
+| 🟦 TypeScript | Scalable JavaScript development |
 
 </div>
 
-<br>
+---
 
-<!-- ===================== WHAT I DO ===================== -->
+<!-- ========================= WHAT I BUILD ========================= -->
 
-<h2 align="center">🚀 What I Do</h2>
+<h2 align="center">🚀 What I Build</h2>
 
 <table align="center">
-<tr>
-<td width="50%">
 
-### 🌐 Full Stack Development
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>🌐 Full Stack Applications</h3>
 
 - Responsive web applications
-- REST APIs
+- RESTful APIs
 - Authentication & authorization
-- Database integration
-- Backend architecture
-- API integration
+- Database-driven applications
+- API integrations
+- Deployment & debugging
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🧠 Problem Solving
+<h3>🧠 DSA & Problem Solving</h3>
 
 - Data Structures
 - Algorithms
 - Java
 - LeetCode
-- Competitive programming
 - Problem-solving patterns
+- Competitive programming fundamentals
 
 </td>
+
 </tr>
 
 <tr>
-<td width="50%">
 
-### 🤖 AI & GenAI
+<td width="50%" valign="top">
 
-- AI-powered applications
-- Generative AI
-- AI integration with web apps
+<h3>🤖 AI-Powered Applications</h3>
+
+- Generative AI integration
+- AI-powered web applications
+- LLM-based features
 - Prompt engineering
-- Exploring LLM-based applications
+- AI + Full Stack projects
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🛠️ Development
+<h3>🛠️ Engineering</h3>
 
 - Git & GitHub
-- Deployment
+- REST APIs
 - Debugging
-- Clean code
-- Version control
-- Continuous learning
+- Clean & maintainable code
+- Deployment
+- Continuous improvement
 
 </td>
+
 </tr>
+
 </table>
 
-<br>
+---
 
-<!-- ===================== PROJECTS ===================== -->
+<!-- ========================= FEATURED PROJECTS ========================= -->
 
-<h2 align="center">🚀 Featured Projects</h2>
+<h2 align="center">🔥 Featured Projects</h2>
 
 <div align="center">
 
@@ -222,13 +227,25 @@ I enjoy solving problems with <b>Java & Data Structures</b>, developing applicat
 
 <br>
 
-<!-- ===================== GITHUB STATS ===================== -->
+<div align="center">
 
-<h2 align="center">📊 GitHub Statistics</h2>
+<a href="https://github.com/Pragyapandey96?tab=repositories">
+
+<img src="https://img.shields.io/badge/View%20All%20Repositories-0072FF?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+</div>
+
+---
+
+<!-- ========================= GITHUB STATS ========================= -->
+
+<h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Pragyapandey96&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Pragyapandey96&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="180"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pragyapandey96&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
 
@@ -236,19 +253,17 @@ I enjoy solving problems with <b>Java & Data Structures</b>, developing applicat
 
 <br>
 
-<!-- ===================== STREAK ===================== -->
-
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=Pragyapandey96&theme=tokyonight&hide_border=true" />
 
 </div>
 
-<br>
+---
 
-<!-- ===================== CONTRIBUTION GRAPH ===================== -->
+<!-- ========================= CONTRIBUTIONS ========================= -->
 
-<h2 align="center">🐍 Contribution Graph</h2>
+<h2 align="center">🐍 Contribution Activity</h2>
 
 <div align="center">
 
@@ -256,36 +271,17 @@ I enjoy solving problems with <b>Java & Data Structures</b>, developing applicat
 
 </div>
 
-<br>
+---
 
-<!-- ===================== GOALS ===================== -->
+<!-- ========================= LEETCODE ========================= -->
 
-<h2 align="center">🎯 2026 Goals</h2>
-
-<div align="center">
-
-| Goal | Progress |
-|------|----------|
-| 🧠 Master DSA & Problem Solving | 🔄 In Progress |
-| ☕ Become Strong in Java | 🔄 In Progress |
-| 🌐 Build Production-Level Full Stack Apps | 🔄 In Progress |
-| 🤖 Integrate AI into Web Applications | 🔄 In Progress |
-| ☁️ Learn AWS & Cloud Deployment | 🔄 In Progress |
-| 💼 Prepare for Software Engineering Placements | 🔄 In Progress |
-
-</div>
-
-<br>
-
-<!-- ===================== LEETCODE ===================== -->
-
-<h2 align="center">🧩 LeetCode Journey</h2>
+<h2 align="center">🧩 DSA & LeetCode Journey</h2>
 
 <div align="center">
 
 <a href="https://leetcode.com/">
 
-<img src="https://img.shields.io/badge/LeetCode-Solving%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 
 </a>
 
@@ -295,38 +291,53 @@ I enjoy solving problems with <b>Java & Data Structures</b>, developing applicat
 
 </div>
 
-<br>
+---
 
-<!-- ===================== DEVELOPMENT PHILOSOPHY ===================== -->
+<!-- ========================= GOALS ========================= -->
 
-<h2 align="center">💡 My Development Philosophy</h2>
+<h2 align="center">🎯 2026 Goals</h2>
 
 <div align="center">
 
-> <b>"Don't just learn technologies. Build with them."</b>
-
-<br>
-
-Learn → Build → Break → Debug → Improve → Repeat 🚀
+| Goal | Status |
+|------|--------|
+| 🧠 Master DSA & Problem Solving | 🔄 In Progress |
+| ☕ Strengthen Java | 🔄 In Progress |
+| 🌐 Build Production-Level Applications | 🔄 In Progress |
+| 🤖 Build AI-Powered Applications | 🔄 In Progress |
+| ☁️ Learn AWS & Cloud | 🔄 In Progress |
+| 💼 Prepare for Software Engineering Placements | 🔄 In Progress |
 
 </div>
 
+---
+
+<!-- ========================= PHILOSOPHY ========================= -->
+
+<h2 align="center">💡 Developer Philosophy</h2>
+
+<div align="center">
+
+### "Don't just learn technologies. Build with them."
+
 <br>
 
-<!-- ===================== CONNECT ===================== -->
+**Learn → Build → Break → Debug → Improve → Repeat 🚀**
+
+</div>
+
+---
+
+<!-- ========================= CONNECT ========================= -->
 
 <h2 align="center">🤝 Let's Connect</h2>
 
 <div align="center">
 
-I'm always open to discussing:
+I'm always interested in discussing:
 
-💻 Software Development  
-🌐 Full Stack Development  
-🧠 DSA & Problem Solving  
-🤖 AI/ML & Generative AI  
-🚀 Projects & Collaboration  
-📚 Learning & Career Opportunities
+💻 Software Development • 🌐 Full Stack Development • 🧠 DSA  
+🤖 AI & Generative AI • 🚀 Projects • 📚 Learning & Collaboration
 
 <br><br>
 
@@ -336,21 +347,27 @@ I'm always open to discussing:
 
 </a>
 
-<a href="https://www.linkedin.com/">
+<a href="YOUR_LINKEDIN_URL">
 
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
 
 </a>
 
+<a href="mailto:YOUR_EMAIL@gmail.com">
+
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail"/>
+
+</a>
+
 </div>
 
-<br>
+<br><br>
 
-<!-- ===================== FOOTER ===================== -->
+<!-- ========================= FOOTER ========================= -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,50:0072FF,100:00C6FF&height=130&section=footer" width="100%"/>
 
 ### ⭐ Thanks for visiting my profile!
 
