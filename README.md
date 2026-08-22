@@ -177,3 +177,11 @@ Recursion
 Trees
 Graphs
 Dynamic Programming
+
+<div align="center">
+
+  
+  <h3>"The best way to predict the future is to code it" </h3>
+  
+  <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
+</div>
