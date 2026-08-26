@@ -11,7 +11,7 @@ Currently, I'm focused on becoming a strong **Full Stack / Backend Developer** b
 ## 🚀 About Me
 
 - 🎓 B.Tech — Computer Science & Engineering @ AKGEC
-- 💻 Backend Engineer — Open Source Software Society (OSS)
+- 💻 Backend Developer — Open Source Software Society (OSS)
 - 🌐 Building full-stack web applications
 - ⚙️ Interested in backend architecture, APIs & databases
 - ☕ Solving Data Structures & Algorithms using Java
