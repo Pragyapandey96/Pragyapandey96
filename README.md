@@ -17,15 +17,20 @@ I build practical web applications, explore reliable backend systems, and turn i
 
 ---
 
-## ✦ A little about me
 
-- Building **full-stack applications** with a focus on backend logic, APIs, and real-world workflows.
-- Interested in **AI/GenAI integration** and products that solve practical problems.
-- Working as a **Backend Engineer in Team OSS**.
-- Strengthening problem-solving skills with **Java and Data Structures & Algorithms**.
-- Exploring open source and preparing for **GSoC 2027**.
+## 👩🏻‍💻 About Me
 
-> I enjoy learning by building, debugging, and improving things one iteration at a time.
+I'm a developer who loves turning ideas into functional products and figuring out how things work under the hood.
+
+- 💻 Building full-stack applications and exploring backend engineering.
+- ⚡ Working with JavaScript, TypeScript, React, Node.js, and MongoDB.
+- 🤖 Exploring AI, Generative AI, and intelligent application development.
+- 🧠 Strengthening my problem-solving skills through Java and DSA.
+- 🌍 Exploring open source, collaborating with developers, and learning from real-world codebases.
+- 🎯 Focused on becoming a better software engineer through consistent building and learning.
+
+**Beyond the code:** Curious mind, builder at heart, always learning something new.
+
 
 ---
 
