@@ -81,10 +81,6 @@ I build practical web applications, explore reliable backend systems, and turn i
 
 ---
 
-## 🤝 Let's connect
-
-I'm always happy to connect with developers, learn from open-source communities, and collaborate on meaningful projects.
-
 <div align="center">
 
 <a href="https://www.linkedin.com/in/pragya-pandey-954b0535a/"><img src="https://img.shields.io/badge/LinkedIn-Pragya%20Pandey-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
