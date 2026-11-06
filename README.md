@@ -29,84 +29,29 @@ I build practical web applications, explore reliable backend systems, and turn i
 
 ---
 
-## ⚡ Things I build with
+
+## ⚡ Tech Stack
 
 <div align="center">
 
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=java,js,ts,html,css" alt="Java, JavaScript, TypeScript, HTML and CSS"/>
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=react,redux,tailwind,bootstrap" alt="React, Redux, Tailwind CSS and Bootstrap"/>
-
-**Backend & Databases**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres" alt="Node.js, Express, MongoDB, MySQL and PostgreSQL"/>
-
-**Tools & Platforms**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,render" alt="Git, GitHub, VS Code, Postman, Vercel and Render"/>
+<img src="https://skillicons.dev/icons?i=java,js,ts,react,redux,nodejs,express,mongodb,mysql,postgres,tailwind,git,github,vscode&perline=7" alt="Tech stack"/>
 
 </div>
 
----
-
-## 🚀 Selected projects
-
-### 01 · PrepMate AI
-**AI-powered interview preparation platform**
-
-A placement-preparation product that uses AI to help candidates practise interviews and receive feedback on their performance.
-
-- Interview practice and AI-generated feedback
-- Resume and job-description based preparation
-- Voice-interview experience
-
-**Built with:** React · TypeScript · Node.js · Express · Gemini API
-
-### 02 · ShopNest
-**Full-stack e-commerce application**
-
-A shopping experience with product discovery, user accounts, cart workflows, payments, and cloud-based media.
-
-- Authentication with email OTP
-- Product and cart management
-- Razorpay payment integration
-- Cloudinary media handling
-
-**Built with:** React · Redux Toolkit · Express · MongoDB · Razorpay · Cloudinary
-
-[View repository →](https://github.com/Pragyapandey96/E-commerce-ShopNest)
-
-### 03 · HireReady AI
-**Generative AI meets career preparation**
-
-An AI-powered application that analyses a candidate's background against a target role and generates an interview-readiness report.
-
-- Resume and job-description analysis
-- Structured AI-generated insights
-- Full-stack deployment
-
-**Built with:** React · Node.js · Express · MongoDB · Google Gemini
-
-[View repository →](https://github.com/Pragyapandey96/FULLSTACK-GENAI)
-
-### 04 · URL Shortener
-**A backend-focused utility**
-
-A service for creating short links and redirecting users through generated URLs.
-
-- REST API design
-- URL generation and redirection
-- MongoDB-backed data storage
-
-**Built with:** Node.js · Express · MongoDB
-
-[View repository →](https://github.com/Pragyapandey96/URL-Shortner)
 
 ---
+
+
+## 🚀 Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [PrepMate AI](https://github.com/Pragyapandey96) | AI-powered interview preparation and feedback platform | React, TypeScript, Node.js, Gemini |
+| [ShopNest](https://github.com/Pragyapandey96/E-commerce-ShopNest) | Full-stack e-commerce with OTP authentication and payments | React, Redux, Express, MongoDB |
+| [HireReady AI](https://github.com/Pragyapandey96/FULLSTACK-GENAI) | AI-powered resume and job-description analysis | React, Node.js, MongoDB, Gemini |
+| [URL Shortener](https://github.com/Pragyapandey96/URL-Shortner) | URL generation and redirection service | Node.js, Express, MongoDB |
+
+
 
 ## 🧩 Currently exploring
 
@@ -119,13 +64,15 @@ A service for creating short links and redirecting users through generated URLs.
 
 ---
 
-## 📈 GitHub activity
+
+## 📊 GitHub Overview
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Pragyapandey96&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pragyapandey96&layout=compact&hide_border=true&theme=transparent" alt="Most used languages"/>
-  <br/>
-  <img width="95%" src="https://streak-stats.demolab.com?user=Pragyapandey96&hide_border=true&theme=transparent" alt="GitHub contribution streak"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Pragyapandey96&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pragyapandey96&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages"/>
+
 </div>
 
 ---
