@@ -1,186 +1,145 @@
-# 👋 Hi, I'm Pragya Pandey
 
-### Full Stack Developer | Backend Developer | Java & DSA
+<!-- GitHub Profile README -->
 
-I'm a Computer Science Engineering student at **Ajay Kumar Garg Engineering College (AKGEC)** who enjoys building real-world web applications, designing backend systems, and solving problems with Java.
+<div align="center">
 
-Currently, I'm focused on becoming a strong **Full Stack / Backend Developer** by building production-oriented projects and strengthening my fundamentals in **DSA, databases, APIs, system design, and AI integration**.
+# Hey, I'm Pragya 👋
 
----
+### Full-Stack Developer · Backend Engineering · AI-powered Products
 
-## 🚀 About Me
+I build practical web applications, explore reliable backend systems, and turn ideas into working products.
 
-- 🎓 B.Tech — Computer Science & Engineering @ AKGEC
-- 💻 Backend Developer — Open Source Software Society (OSS)
-- 🌐 Building full-stack web applications
-- ⚙️ Interested in backend architecture, APIs & databases
-- ☕ Solving Data Structures & Algorithms using Java
-- 🤖 Exploring AI & Generative AI
-- 🌱 Currently learning TypeScript, PostgreSQL, AWS & scalable backend systems
-- 🎯 Goal: Become a strong Software Engineer
+<a href="https://komarev.com/ghpvc/?username=Pragyapandey96&style=for-the-badge&color=7c3aed"><img src="https://komarev.com/ghpvc/?username=Pragyapandey96&style=for-the-badge&color=7c3aed" alt="Profile views"/></a>
+<a href="https://www.linkedin.com/in/pragya-pandey-954b0535a/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://github.com/Pragyapandey96?tab=repositories"><img src="https://img.shields.io/badge/Explore-My%20Repositories-24292e?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/></a>
+
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## ✦ A little about me
 
-### Languages
+- Building **full-stack applications** with a focus on backend logic, APIs, and real-world workflows.
+- Interested in **AI/GenAI integration** and products that solve practical problems.
+- Working as a **Backend Engineer in Team OSS**.
+- Strengthening problem-solving skills with **Java and Data Structures & Algorithms**.
+- Exploring open source and preparing for **GSoC 2027**.
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-
-### Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-
-### Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-02569B?style=flat&logo=fastapi&logoColor=white)
-
-### Databases
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=black)
+> I enjoy learning by building, debugging, and improving things one iteration at a time.
 
 ---
 
-## 💼 Experience
+## ⚡ Things I build with
 
-### Backend Developer
-**Open Source Software Society (OSS), AKGEC** · *oct 2025 – Present*
+<div align="center">
 
-Contributing to backend development for technical projects and digital platforms within a student-led open source community.
+**Languages**
 
-- Developing RESTful APIs using Node.js and Express.js
-- Working with MongoDB and MySQL for data management
-- Building reusable server-side modules
-- Integrating frontend applications with backend services
-- Working with authentication and authorization
-- Debugging APIs and improving application reliability
-- Collaborating with frontend developers through Git and GitHub
+<img src="https://skillicons.dev/icons?i=java,js,ts,html,css" alt="Java, JavaScript, TypeScript, HTML and CSS"/>
 
-**Technologies:** Node.js · Express.js · MongoDB · MySQL · REST APIs · JavaScript · Git
+**Frontend**
 
----
+<img src="https://skillicons.dev/icons?i=react,redux,tailwind,bootstrap" alt="React, Redux, Tailwind CSS and Bootstrap"/>
 
-## 🚀 Featured Projects
+**Backend & Databases**
 
-### 🛒 ShopNest — Full Stack E-Commerce Platform
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres" alt="Node.js, Express, MongoDB, MySQL and PostgreSQL"/>
 
-A full-stack e-commerce application designed to provide a complete online shopping experience.
+**Tools & Platforms**
 
-**Highlights**
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,render" alt="Git, GitHub, VS Code, Postman, Vercel and Render"/>
 
-- User authentication and authorization
-- Product management
-- Shopping cart functionality
-- REST API integration
-- Database-driven application
-- Responsive frontend
-- Backend API architecture
-
-**Tech:** React · Node.js · Express.js · MongoDB · JavaScript
-
-🔗 [View Repository](https://github.com/Pragyapandey96/E-commerce-ShopNest)
+</div>
 
 ---
 
-### 🤖 Full Stack GenAI
+## 🚀 Selected projects
 
-A full-stack application combining modern web development with Generative AI capabilities.
+### 01 · PrepMate AI
+**AI-powered interview preparation platform**
 
-**Highlights**
+A placement-preparation product that uses AI to help candidates practise interviews and receive feedback on their performance.
 
-- AI-powered functionality
-- REST API based architecture
-- Frontend/backend integration
-- AI API integration
-- Deployed frontend and backend
+- Interview practice and AI-generated feedback
+- Resume and job-description based preparation
+- Voice-interview experience
 
-**Tech:** React · Node.js · Express.js · MongoDB · Generative AI
+**Built with:** React · TypeScript · Node.js · Express · Gemini API
 
-🔗 [View Repository](https://github.com/Pragyapandey96/FULLSTACK-GENAI)
+### 02 · ShopNest
+**Full-stack e-commerce application**
 
----
+A shopping experience with product discovery, user accounts, cart workflows, payments, and cloud-based media.
 
-### 🔗 URL Shortener
+- Authentication with email OTP
+- Product and cart management
+- Razorpay payment integration
+- Cloudinary media handling
 
-A backend-focused web application for generating short URLs and managing redirects.
+**Built with:** React · Redux Toolkit · Express · MongoDB · Razorpay · Cloudinary
 
-**Highlights**
+[View repository →](https://github.com/Pragyapandey96/E-commerce-ShopNest)
 
-- RESTful API
-- URL generation
-- Database integration
-- Server-side routing
-- Backend-focused architecture
+### 03 · HireReady AI
+**Generative AI meets career preparation**
 
-**Tech:** Node.js · Express.js · MongoDB · JavaScript
+An AI-powered application that analyses a candidate's background against a target role and generates an interview-readiness report.
 
-🔗 [View Repository](https://github.com/Pragyapandey96/URL-Shortner)
+- Resume and job-description analysis
+- Structured AI-generated insights
+- Full-stack deployment
 
----
+**Built with:** React · Node.js · Express · MongoDB · Google Gemini
 
-### 📝 Node.js Projects
+[View repository →](https://github.com/Pragyapandey96/FULLSTACK-GENAI)
 
-A collection of backend and server-side development projects built while learning Node.js and Express.js.
+### 04 · URL Shortener
+**A backend-focused utility**
 
-**Tech:** Node.js · Express.js · MongoDB · EJS · REST APIs
+A service for creating short links and redirecting users through generated URLs.
 
-🔗 [View Repository](https://github.com/Pragyapandey96/Node_Js)
+- REST API design
+- URL generation and redirection
+- MongoDB-backed data storage
 
----
+**Built with:** Node.js · Express · MongoDB
 
-## 🧠 Problem Solving
-
-I'm actively improving my problem-solving skills using **Java**.
-
-### Current Focus
-
-- Arrays & Strings
-- Hashing
-- Two Pointers
-- Sliding Window
-- Binary Search
-- Linked Lists
-- Stacks & Queues
-- Trees
-- Graphs
-- Dynamic Programming
-
-I'm following a consistent approach:
-
-**Understand → Solve → Optimize → Implement → Review**
+[View repository →](https://github.com/Pragyapandey96/URL-Shortner)
 
 ---
 
-## 📚 Currently Learning
+## 🧩 Currently exploring
 
-```text
-Java & DSA
-      ↓
-TypeScript
-      ↓
-PostgreSQL
-      ↓
-System Design
-      ↓
-AWS & Cloud
-      ↓
-AI + Full Stack
+| Focus | What I'm working on |
+| --- | --- |
+| Problem solving | Java, DSA, patterns, and writing cleaner solutions |
+| Backend engineering | API design, authentication, databases, and maintainable code |
+| Open source | Understanding large codebases and preparing contributions |
+| AI engineering | Integrating GenAI into useful full-stack products |
+
+---
+
+## 📈 GitHub activity
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Pragyapandey96&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pragyapandey96&layout=compact&hide_border=true&theme=transparent" alt="Most used languages"/>
+  <br/>
+  <img width="95%" src="https://streak-stats.demolab.com?user=Pragyapandey96&hide_border=true&theme=transparent" alt="GitHub contribution streak"/>
+</div>
+
+---
+
+## 🤝 Let's connect
+
+I'm always happy to connect with developers, learn from open-source communities, and collaborate on meaningful projects.
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/pragya-pandey-954b0535a/"><img src="https://img.shields.io/badge/LinkedIn-Pragya%20Pandey-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://github.com/Pragyapandey96"><img src="https://img.shields.io/badge/GitHub-Pragyapandey96-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+
+*Build. Learn. Contribute. Repeat.*
+
+</div>
+
